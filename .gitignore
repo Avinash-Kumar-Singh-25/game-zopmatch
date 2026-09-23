@@ -1,0 +1,9 @@
+# runtime state (rooms are rebuilt at runtime)
+rooms.json
+
+# dependencies (none needed — zero-dependency server)
+node_modules/
+
+# os / editor cruft
+.DS_Store
+*.log

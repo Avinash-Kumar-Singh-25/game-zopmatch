@@ -1,0 +1,9 @@
+.git
+.gitignore
+.claude
+_archive
+rooms.json
+node_modules
+*.md
+Dockerfile
+.dockerignore
